@@ -1,5 +1,5 @@
 # List of React-Native Apps 
-A list of maintained react-native apps in javascript and typescript. As a beginner, you can learn to develop enterprise level android and ios apps using react-native. These apps have been developed by community and maintained for the community. It will help upcoming react-native developers to learn fast and create awesome mobile apps. 
+A list of actively maintained react-native apps in javascript and typescript. As a beginner, you can learn to develop enterprise level android and ios apps using react-native. These apps have been developed by community and maintained for the community. It will help upcoming react-native developers to learn fast and create awesome mobile apps. 
 
 List of [react-native-news](https://github.com/ReactNativeNews/React-Native-Apps) was extensive and long for beginners to understand. Most of the project in the list are not being maintained and many deprecated methods were used in the repos. I thought, it would be best to introduce a new list of react-native for beginners. All credit goes to react-native-news for making this list possible. 
 
